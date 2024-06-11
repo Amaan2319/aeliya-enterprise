@@ -6,11 +6,11 @@ const products = [
         name: 'Moss Agate Bowl 5"',
         price: '$100',
         images: [
-            'Images/moss-agate-bowl/mossagate1.jpg',
-            'Images/moss-agate-bowl/mossagate2.jpg',
-            'Images/moss-agate-bowl/mossagate3.jpg',
-            'Images/moss-agate-bowl/mossagate4.jpg',
-            'Images/moss-agate-bowl/mossagate5.jpg'
+            'images/moss-agate-bowl/mossagate1.jpg',
+            'images/moss-agate-bowl/mossagate2.jpg',
+            'images/moss-agate-bowl/mossagate3.jpg',
+            'images/moss-agate-bowl/mossagate4.jpg',
+            'images/moss-agate-bowl/mossagate5.jpg'
         ]
     },
     {
@@ -18,11 +18,11 @@ const products = [
         name: 'Crystal Sphere',
         price: '$110',
         images: [
-            'Images/jasper-bowl/jasper1.jpg',
-            'Images/jasper-bowl/jasper2.jpg',
-            'Images/jasper-bowl/jasper3.jpg',
-            'Images/jasper-bowl/jasper4.jpg',
-            'Images/jasper-bowl/jasper5.jpg'
+            'images/jasper-bowl/jasper1.jpg',
+            'images/jasper-bowl/jasper2.jpg',
+            'images/jasper-bowl/jasper3.jpg',
+            'images/jasper-bowl/jasper4.jpg',
+            'images/jasper-bowl/jasper5.jpg'
         ]
     },
     {
@@ -30,10 +30,10 @@ const products = [
         name: 'Selenite bowl 5"',
         price: '$100',
         images: [
-            'Images/selenite-bowl/selenite1.jpg',
-            'Images/selenite-bowl/selenite2.jpg',
-            'Images/selenite-bowl/selenite3.jpg',
-            'Images/selenite-bowl/selenite4.jpg'
+            'images/selenite-bowl/selenite1.jpg',
+            'images/selenite-bowl/selenite2.jpg',
+            'images/selenite-bowl/selenite3.jpg',
+            'images/selenite-bowl/selenite4.jpg'
         ]
     },
     {
@@ -41,10 +41,10 @@ const products = [
         name: 'Amethyst bowl 5"',
         price: '$100',
         images: [
-            'Images/amethyst-bowl/amethyst1.jpg',
-            'Images/amethyst-bowl/amethyst2.jpg',
-            'Images/amethyst-bowl/amethyst3.jpg',
-            'Images/amethyst-bowl/amethyst4.jpg'
+            'images/amethyst-bowl/amethyst1.jpg',
+            'images/amethyst-bowl/amethyst2.jpg',
+            'images/amethyst-bowl/amethyst3.jpg',
+            'images/amethyst-bowl/amethyst4.jpg'
         ]
     },
     {
@@ -52,8 +52,8 @@ const products = [
         name: 'Carnelian bowl 4"',
         price: '$100',
         images: [
-            'Images/carnelian-bowl/3.png',
-            'Images/carnelian-bowl/4.png'
+            'images/carnelian-bowl/3.png',
+            'images/carnelian-bowl/4.png'
         ]
     },
     {
@@ -61,8 +61,8 @@ const products = [
         name: 'Margaj bowl 5"',
         price: '$100',
         images: [
-            'Images/margaj-bowl/1.png',
-            'Images/margaj-bowl/2.png'
+            'images/margaj-bowl/1.png',
+            'images/margaj-bowl/2.png'
         ]
     },
     {
@@ -70,8 +70,8 @@ const products = [
         name: 'Amethyst Sphere',
         price: '$110',
         images: [
-            'Images/spheres/amethyst sphere/amethyst1.jpg',
-            'Images/spheres/amethyst sphere/amethyst2.jpg',
+            'images/spheres/amethyst sphere/amethyst1.jpg',
+            'images/spheres/amethyst sphere/amethyst2.jpg',
             // 'Images/spheres/amethyst sphere/amethyst3.jpg'
         ]
     },
@@ -80,9 +80,9 @@ const products = [
         name: 'Jasper Sphere',
         price: '$110',
         images: [
-            'Images/spheres/jasper sphere/jasper1.jpg',
-            'Images/spheres/jasper sphere/jasper2.jpg',
-            'Images/spheres/jasper sphere/jasper3.jpg'
+            'images/spheres/jasper sphere/jasper1.jpg',
+            'images/spheres/jasper sphere/jasper2.jpg',
+            'images/spheres/jasper sphere/jasper3.jpg'
         ]
     },
     {
@@ -90,7 +90,7 @@ const products = [
         name: 'chakra tree',
         price: '$110',
         images: [
-            'Images/trees/chakra small tree/chakra1.jpg',
+            'images/trees/chakra small tree/chakra1.jpg',
         ]
     },
     {
@@ -98,10 +98,10 @@ const products = [
         name: 'Black crystal pryamid',
         price: '$110',
         images: [
-            'Images/pyramid/black/black1.jpg',
-            'Images/pyramid/black/black2.jpg',
-            'Images/pyramid/black/black3.jpg',
-            'Images/pyramid/black/black4.jpg',
+            'images/pyramid/black/black1.jpg',
+            'images/pyramid/black/black2.jpg',
+            'images/pyramid/black/black3.jpg',
+            'images/pyramid/black/black4.jpg',
         ]
     },
     {
@@ -109,9 +109,9 @@ const products = [
         name: 'White crystal pyramid',
         price: '$110',
         images: [
-            'Images/pyramid/white/white1.jpg',
-            'Images/pyramid/white/white2.jpg',
-            'Images/pyramid/white/white3.jpg',
+            'images/pyramid/white/white1.jpg',
+            'images/pyramid/white/white2.jpg',
+            'images/pyramid/white/white3.jpg',
             // 'Images/pyramid/white/white4.jpg',
         ]
     },

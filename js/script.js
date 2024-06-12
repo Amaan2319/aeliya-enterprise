@@ -98,7 +98,7 @@ const products = [
         name: 'Black crystal pryamid',
         price: '$110',
         images: [
-            'images/pyramid/black/black1.jpg',
+            'images/pyramids/black/black1.jpg',
             'images/pyramid/black/black2.jpg',
             'images/pyramid/black/black3.jpg',
             'images/pyramid/black/black4.jpg'

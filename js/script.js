@@ -101,7 +101,7 @@ const products = [
             'images/pyramid/black/black1.jpg',
             'images/pyramid/black/black2.jpg',
             'images/pyramid/black/black3.jpg',
-            'images/pyramid/black/black4.jpg',
+            'images/pyramid/black/black4.jpg'
         ]
     },
     {
@@ -111,7 +111,7 @@ const products = [
         images: [
             'images/pyramid/white/white1.jpg',
             'images/pyramid/white/white2.jpg',
-            'images/pyramid/white/white3.jpg',
+            'images/pyramid/white/white3.jpg'
             // 'Images/pyramid/white/white4.jpg',
         ]
     },

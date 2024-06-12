@@ -98,10 +98,10 @@ const products = [
         name: 'Black crystal pryamid',
         price: '$110',
         images: [
-            'images/pyramids/black/black1.jpg',
-            'images/pyramid/black/black2.jpg',
-            'images/pyramid/black/black3.jpg',
-            'images/pyramid/black/black4.jpg'
+            'images/pyramids/black/black1.JPG',
+            'images/pyramid/black/black2.JPG',
+            'images/pyramid/black/black3.JPG',
+            'images/pyramid/black/black4.JPG'
         ]
     },
     {
@@ -109,9 +109,9 @@ const products = [
         name: 'White crystal pyramid',
         price: '$110',
         images: [
-            'images/pyramid/white/white1.jpg',
-            'images/pyramid/white/white2.jpg',
-            'images/pyramid/white/white3.jpg'
+            'images/pyramid/white/white1.JPG',
+            'images/pyramid/white/white2.JPG',
+            'images/pyramid/white/white3.JPG'
             // 'Images/pyramid/white/white4.jpg',
         ]
     },

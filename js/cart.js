@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 3, name: 'Selenite bowl 5"', price: '$69', images: ['images/selenite-bowl/selenite1.jpg'] },
         { id: 4, name: 'Amethyst bowl 5"', price: '$100', images: ['images/amethyst-bowl/amethyst1.jpg'] },
         { id: 5, name: 'Carnelian bowl 4"', price: '$102', images: ['images/carnelian-bowl/3.png'] },
-        { id: 6, name: 'Margaj bowl 5"', price: '$106', images: ['images/margaj-bowl/1.png'] },
+        { id: 6, name: 'Margaj bowl 6"', price: '$106', images: ['images/margaj-bowl/1.png'] },
         { id: 7, name: 'Amethyst Sphere', price: '$135', images: ['images/spheres/amethyst sphere/amethyst1.jpg'] },
         { id: 8, name: 'Jasper Sphere', price: '$110', images: ['images/spheres/jasper sphere/jasper1.jpg'] },
         { id: 9, name: 'chakra tree', price: '$40', images: ['images/trees/chakra small tree/chakra1.jpg'] },

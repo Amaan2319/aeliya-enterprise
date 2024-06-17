@@ -4,7 +4,7 @@ const products = [
     {
         id: 1,
         name: 'Moss Agate Bowl 5"',
-        price: '$100',
+        price: '$80',
         images: [
             'images/moss-agate-bowl/mossagate1.jpg',
             'images/moss-agate-bowl/mossagate2.jpg',
@@ -15,8 +15,8 @@ const products = [
     },
     {
         id: 2,
-        name: 'Crystal Sphere',
-        price: '$110',
+        name: 'Jasper Bowl 4.5"',
+        price: '$82',
         images: [
             'images/jasper-bowl/jasper1.jpg',
             'images/jasper-bowl/jasper2.jpg',
@@ -39,7 +39,7 @@ const products = [
     {
         id: 4,
         name: 'Amethyst bowl 5"',
-        price: '$100',
+        price: '$84',
         images: [
             'images/amethyst-bowl/amethyst1.jpg',
             'images/amethyst-bowl/amethyst2.jpg',
@@ -59,7 +59,7 @@ const products = [
     {
         id: 6,
         name: 'Margaj bowl 5"',
-        price: '$100',
+        price: '$69',
         images: [
             'images/margaj-bowl/1.png',
             'images/margaj-bowl/2.png'
@@ -68,7 +68,7 @@ const products = [
     {
         id: 7,
         name: 'Amethyst Sphere',
-        price: '$110',
+        price: '$135',
         images: [
             'images/spheres/amethyst sphere/amethyst1.jpg',
             'images/spheres/amethyst sphere/amethyst2.jpg',
@@ -88,7 +88,7 @@ const products = [
     {
         id: 9,
         name: 'chakra tree',
-        price: '$110',
+        price: '$40',
         images: [
             'images/trees/chakra small tree/chakra1.jpg',
         ]
@@ -96,7 +96,7 @@ const products = [
     {
         id: 10,
         name: 'Black crystal pryamid',
-        price: '$110',
+        price: '$5 (Minimum 10 orders)',
         images: [
             'images/pyramids/black/black1.JPG',
             'images/pyramid/black/black2.JPG',
@@ -107,7 +107,7 @@ const products = [
     {
         id: 11,
         name: 'White crystal pyramid',
-        price: '$110',
+        price: '$5 (Minimum 10 order)',
         images: [
             'images/pyramid/white/white1.JPG',
             'images/pyramid/white/white2.JPG',

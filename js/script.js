@@ -28,7 +28,7 @@ const products = [
     {
         id: 3,
         name: 'Selenite bowl 5"',
-        price: '$100',
+        price: '$69',
         images: [
             'images/selenite-bowl/selenite1.jpg',
             'images/selenite-bowl/selenite2.jpg',
@@ -58,8 +58,8 @@ const products = [
     },
     {
         id: 6,
-        name: 'Margaj bowl 5"',
-        price: '$69',
+        name: 'Margaj bowl 6"',
+        price: '$106',
         images: [
             'images/margaj-bowl/1.png',
             'images/margaj-bowl/2.png'
